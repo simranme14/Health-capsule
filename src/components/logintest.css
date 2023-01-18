@@ -1,0 +1,162 @@
+.Login {
+
+    width: 400px;
+  
+    margin: auto;
+  
+    text-align: center;
+  
+    border: 1px solid gray;
+  
+    padding: 20px;
+  
+    border-radius: 10px;
+  
+    box-shadow: 0px 0px 10px #ccc;
+  
+   
+  
+  }
+  
+  
+  
+   
+  
+  
+  
+  h1 {
+  
+    font-size: 2em;
+  
+    margin-bottom: 20px;
+  
+  }
+  
+  
+  
+  form {
+  
+    display: flex;
+  
+    flex-direction: column;
+  
+    align-items: center;
+  
+  }
+  
+  
+  
+  label {
+  
+    margin-bottom: 10px;
+  
+  }
+  
+  
+  
+  input[type="text"], input[type="password"] {
+  
+    padding: 12px 20px;
+  
+    margin-bottom: 20px;
+  
+    width: 100%;
+  
+    box-sizing: border-box;
+  
+    border-radius: 5px;
+  
+    border: 1px solid gray;
+  
+  }
+  
+  
+  
+  input[type="submit"] {
+  
+    background-color: rgba(2, 2, 28, 0.68);
+  
+    color: white;
+  
+    padding: 14px 20px;
+  
+   
+  
+    margin-top: 20px;
+  
+    border: none;
+  
+    cursor: pointer;
+  
+    border-radius: 5px;
+  
+  }
+  
+  
+  
+  input[type="submit"]:hover {
+  
+    background-color: darkblue;
+  
+  }
+  
+  .left-align {
+  
+    margin-right: 30%; /* adjust the value as per your requirement */
+  
+  }
+  
+    .back{
+  
+    background-image: url('C:\Users\MS099622\React\cerntask\src\components\Cernerlogo.png');
+  
+    background-size: cover;
+  
+    /* background-size: contain; */
+  
+    background-repeat: no-repeat;
+  
+    height: 100vh;
+  
+    width: auto;
+  
+    z-index:-3;
+  
+    position:absolute;
+  
+    top:0;
+  
+    bottom:0;
+  
+    right:0;
+  
+    left:0;
+  
+    margin:0;
+  
+    padding:0;
+  
+    }
+  
+  
+  
+  
+  .button {
+  
+    background-color: rgba(2, 2, 28, 0.68);
+  
+    color: white;
+  
+    padding: 14px 20px;
+  
+   
+  
+    margin-top: 20px;
+  
+    border: none;
+  
+    cursor: pointer;
+  
+    border-radius: 5px;
+  
+  }

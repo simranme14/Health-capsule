@@ -1,0 +1,74 @@
+table, th, td {
+    border: 2px solid forestgreen;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td{
+    margin: 100px;
+}
+body {
+    /* background-image: url("C:\Users\SR091969\Downloads\Image8.jpg"); */
+}
+/* .button {
+    background-color: steelblue; /* SteelBlue  
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari 
+    transition-duration: 0.4s;
+} */
+h1 {
+    text-align: center;
+}
+
+
+i {
+    margin-left: revert;
+    text-align: right;
+    font-size: 24px;
+}
+.button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.notification {
+    background-color: #555;
+    color: white;
+    text-decoration: none;
+    padding: 15px 26px;
+    position: relative;
+    display: inline-block;
+    border-radius: 2px;
+    background-color: grey;
+}
+
+    .notification:hover {
+        background-color: lightcoral;
+    }
+
+    .notification .badge {
+        position: absolute;
+        top: -10px;
+        right: -10px;
+        padding: 5px 10px;
+        border-radius: 50%;
+        background-color: orangered;
+        color: white;
+    }
+
+.header {
+    height: 50px;
+    background-color: steelblue;
+    text-align: center;
+    margin: 8px;
+    line-height: 50px;
+    color: whitesmoke;
+}

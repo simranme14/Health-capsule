@@ -1,0 +1,111 @@
+.Home{
+
+
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+
+
+
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+
+
+
+        sans-serif;
+
+
+
+    -webkit-font-smoothing: antialiased;
+
+
+
+    -moz-osx-font-smoothing: grayscale;
+
+
+
+    top:0;
+
+
+
+        bottom:0;
+
+
+
+        right:0;
+
+
+
+        left:0;
+
+
+
+        margin:0;
+
+
+
+        padding:0;
+
+
+
+ zoom :103%;
+
+
+
+}
+
+
+
+.heading {
+
+
+
+    text-align: center;
+
+
+
+}
+
+.button5{
+
+    text-align: left;
+
+    margin-right:auto;
+
+}
+
+.data.mainText{
+
+color: blue;
+
+}
+
+body {
+
+    background-image: url('C:\Users\MS099622\React\cerntask\src\components\Logo_with_bg.jpg');
+
+    background-size: cover;
+
+    /* background-size: contain; */
+
+    background-repeat: no-repeat;
+
+    height: 100vh;
+
+    width: auto;
+
+    z-index:-3;
+
+    position:absolute;
+
+    top:0;
+
+    bottom:0;
+
+    right:0;
+
+    left:0;
+
+    margin:0;
+
+    padding:0;
+
+}

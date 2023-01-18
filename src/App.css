@@ -1,0 +1,28 @@
+body{
+  margin:0;
+  padding:0;
+   zoom : 109% 
+}
+.App{
+  position: relative;
+}
+.App::before{
+        content:"";
+        /* background-image: url('C:\Users\MS099622\React\cerntask\src\components\Cernerlogo.png'); */
+         /* opacity: 0.5; */
+        background-size: cover; 
+        /* background-size: contain; */
+        background-repeat: no-repeat;
+        height: 100vh;
+        width: auto;
+        z-index:-3;
+        position:absolute; 
+        top:0;
+        bottom:0;
+        right:0;
+        left:0;
+        margin:0;
+        padding:0; 
+        
+   
+}
